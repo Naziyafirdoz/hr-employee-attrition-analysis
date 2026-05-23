@@ -123,4 +123,3 @@ hr-employee-attrition-analysis/
 
 
 
-Aspiring Data Analyst
