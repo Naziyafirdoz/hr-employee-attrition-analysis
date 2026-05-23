@@ -121,10 +121,6 @@ hr-employee-attrition-analysis/
 
 └── README.md
 
----
 
-## Author
-
-Naziya Firdoz
 
 Aspiring Data Analyst
