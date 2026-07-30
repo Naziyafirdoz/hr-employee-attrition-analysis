@@ -30,8 +30,14 @@ How to reproduce the analysis
 
 Dataset & citation
 
-- Dataset file included: data/WA_Fn-UseC_-HR-Employee-Attrition.csv
-- Source: IBM HR Employee Attrition dataset (commonly available from public sources such as Kaggle). Please check licensing before commercial reuse.
+- Dataset: IBM HR Employee Attrition Dataset (WA_Fn-UseC_-HR-Employee-Attrition.csv)
+- Original source: Kaggle — pavansubhasht (Pavan Subhash)
+- Source URL: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+- Licensing note: The dataset is hosted on Kaggle and may be subject to platform-specific or contributor-specific terms. This repository does NOT redistribute the dataset. To reproduce this analysis, download the CSV from the original source and place it in data/ with the exact filename: WA_Fn-UseC_-HR-Employee-Attrition.csv. Example (requires Kaggle CLI and an account):
+
+kaggle datasets download -d pavansubhasht/ibm-hr-analytics-attrition-dataset -f WA_Fn-UseC_-HR-Employee-Attrition.csv -p data/ --unzip
+
+Verify the dataset license on the Kaggle page before commercial use.
 
 Contact & skills
 
