@@ -207,7 +207,7 @@ hr-employee-attrition-analysis/
 
 ├── data/
 
-│ └── WA_Fn-UseC_-HR-Employee-Attrition.csv
+│   └── (dataset not included; see README dataset section)
 
 ├── outputs/
 
