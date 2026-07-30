@@ -1,0 +1,8 @@
+# Minimum dependency versions inferred from notebook imports
+python>=3.8
+pandas>=1.1.5
+matplotlib>=3.3.0
+seaborn>=0.11.0
+jupyter>=1.0.0
+# Optional but recommended for reproducible runs
+notebook>=6.0.0
